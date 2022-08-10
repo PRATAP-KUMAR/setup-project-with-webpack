@@ -3,6 +3,6 @@ body {
 }
 
 .hello {
-  color: blue;
+  color: red;
   background: url('./icon.jpg');
 }
